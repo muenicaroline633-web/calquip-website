@@ -253,3 +253,14 @@ footer {
         right: 15px;
     }
 }
+.card img {
+    width: 100%;
+    height: 180px;
+    object-fit: cover;
+    border-radius: 8px;
+    margin-bottom: 10px;
+}
+.logo {
+    width: 80px;
+    margin-bottom: 10px;
+}
